@@ -39,10 +39,11 @@ The downloaded files will be organized in the following structure:
 - Run the `main.py` file.
   ![](assets/20240815_191841_image.png)
 - Enter the manga URL
-
   demo url: [https://1st-kissmanga.net/manga/overlord-of-insects/](https://1st-kissmanga.net/manga/overlord-of-insects/https:/)
-
   ![](assets/20240815_193050_image.png)
 - Then, the download starts
-
   ![](assets/20240815_193648_image.png)
+- Output folder looks like this
+
+
+  ![](assets/20240815_194025_image.png)
